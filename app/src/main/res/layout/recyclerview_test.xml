@@ -11,4 +11,7 @@
         android:textSize="72sp"
         android:padding="20dp"
         android:text="TextView"/>
+
+    <ImageView android:layout_width="100dp" android:layout_height="100dp"
+               android:id="@+id/image_view"/>
 </LinearLayout>
